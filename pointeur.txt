@@ -1,0 +1,15 @@
+~~~~~~~~ Pointeur ~~~~~~~~~~
+
+--- > Pointeur : variable contenant l'adresse d'une autre variable
+
+--- > %d : affiche une adresse de pointeur ou de variable
+ 
+ [ VARIABLES ]
+ 	
+	maVariable  : valeur de la variable
+	&maVariable : adresse de la variable
+
+ [ POINTEURS ]
+ 	monPointeur  : adresse de la variable pointée
+	*monPointeur : valeur de la variable pointée
+	&monPointeur : adresse du pointeur
